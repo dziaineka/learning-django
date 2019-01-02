@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': '1111',
-        'HOST': 'localhost',
+        'NAME': 'zbulankk',
+        'USER': 'zbulankk',
+        'PASSWORD': 'H8pSeKtzdbZMcmoa8qkPHcMIcs5l9DIZ',
+        'HOST': 'manny.db.elephantsql.com',
         'PORT': '5432',
     }
 }
